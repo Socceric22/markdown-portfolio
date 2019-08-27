@@ -1,7 +1,7 @@
-* Family
-* Soccer
-* Wood Working
-* Being Outside
-  *Hiking
-  *Camping
-*Video Games
+1. Family
+2. Soccer
+3. Being Outside
+ 1. Playing With Kids
+ 2. Camping
+ 3. Hiking
+4.Wood Working
