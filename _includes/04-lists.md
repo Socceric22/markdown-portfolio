@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Family
+* Soccer
+* Wood Working
+* Being Outside
+  *Hiking
+  *Camping
+*Video Games
